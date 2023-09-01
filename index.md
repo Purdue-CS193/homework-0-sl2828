@@ -1,22 +1,20 @@
-## Welcome to GitHub Pages
+## Selina Lin's First CS 193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### My Favorite Things
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My favorite things about CS 193 are . . .
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+- Offers PSOs to help students
+- Covers terminal commands
+- Nice memes occasionally
+- Run by USB
+- Meeting at 9:30, forcing me to have a better sleep schedule
 
 1. Numbered
 2. List
